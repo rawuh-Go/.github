@@ -17,5 +17,5 @@ Member  :
 ## Repository
 1. [mobile app](https://github.com/rawuh-Go/rawuh-go)
 2. [backend](https://github.com/rawuh-Go/web-app)
-3. [RestApi](https://github.com/rawuh-Go/rawuh-apiService)
+3. [RestApi](https://github.com/rawuh-Go/rawuh_go-RestApi)
 
